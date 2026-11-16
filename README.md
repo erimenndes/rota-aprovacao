@@ -1,4 +1,4 @@
-# rota-aprovacao
+# Rota da Aprovação
 
 Painel de preparação acadêmica em português, desenvolvido para organizar estudo, prática e revisão de Arquitetura de Computadores, Python e Estrutura de Dados.
 
